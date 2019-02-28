@@ -11,7 +11,7 @@ It is not guaranteed to work on Cellular Networks on all Devices
 Magisk installed (v17+)
 
 ## Changelog
-* v1.0 (Initial Release)
+* v1 (Initial Release)
 
 
 ## Links
