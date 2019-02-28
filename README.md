@@ -7,6 +7,8 @@ This Module makes your Device to use DNS.WATCH DNS Servers:
 ## Caution
 It is not guaranteed to work on Cellular Networks on all Devices
 
+### Requirements:
+Magisk installed (v17+)
 
 ## Changelog
 * v1.0 Initial Release
