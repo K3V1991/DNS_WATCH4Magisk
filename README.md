@@ -1,8 +1,6 @@
 <h1 align="center">
 <img src="https://s17.directupload.net/images/190228/okv2hnmu.png">
 <br />
-<img src="https://img.shields.io/badge/XDA-Thread-yellow.svg?longCache=true&style=flat-square"></a><br /><img src="https://img.shields.io/badge/Status-Stable-green.svg?longCache=true&style=flat-square"alt="_time_stamp_" />
-
 
 
 DNS.WATCH4Magisk
