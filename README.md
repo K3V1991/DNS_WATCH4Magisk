@@ -14,8 +14,8 @@ It is not guaranteed to work on Cellular Networks on all Devices
 
 
 ## Links
-* [XDA Thread](https://img.shields.io/badge/XDA-Thread-orange.svg)](https://forum.xda-developers.com/apps/magisk/module-dns-watch4magisk-dns-watch-dns-t3905401)
-* [Magisk](https://img.shields.io/badge/Magisk-v17%2B-brightgreen.svg)](https://forum.xda-developers.com/apps/magisk/official-magisk-v7-universal-systemless-t3473445)
+* [![XDA Thread](https://img.shields.io/badge/XDA-Thread-orange.svg)](https://forum.xda-developers.com/apps/magisk/module-dns-watch4magisk-dns-watch-dns-t3905401)
+* [![Magisk](https://img.shields.io/badge/Magisk-v17%2B-brightgreen.svg)](https://forum.xda-developers.com/apps/magisk/official-magisk-v7-universal-systemless-t3473445)
 
 
 ## Credits
