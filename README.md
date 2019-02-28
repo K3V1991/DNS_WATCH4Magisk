@@ -1,6 +1,6 @@
 <h1 align="center">
 <img src="https://s17.directupload.net/images/190228/okv2hnmu.png">
-<br />
+
 This Module makes your Device to use DNS.WATCH DNS Servers:
 * 84.200.69.80
 * 84.200.70.40
