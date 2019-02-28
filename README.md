@@ -1,3 +1,10 @@
+<h1 align="center">
+<img src="https://s17.directupload.net/images/190228/okv2hnmu.png">
+<br />
+<img src="https://img.shields.io/badge/XDA-Thread-yellow.svg?longCache=true&style=flat-square"></a><br /><img src="https://img.shields.io/badge/Status-Stable-green.svg?longCache=true&style=flat-square"alt="_time_stamp_" />
+
+
+
 DNS.WATCH4Magisk
 
 
@@ -5,12 +12,11 @@ This Module makes your Device to use DNS.WATCH DNS Servers:
 * 84.200.69.80
 * 84.200.70.40
 
-
 It is not guaranteed to work on Cellular Networks on all Devices
 
 
 ## Changelog
-* v1 Initial
+* v1.0 Initial Release
 
 
 ## Links
