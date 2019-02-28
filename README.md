@@ -1,6 +1,6 @@
 <h1 align="center">
 <img src="https://s17.directupload.net/images/190228/okv2hnmu.png">
-<br />
+
 
 
 DNS.WATCH4Magisk
