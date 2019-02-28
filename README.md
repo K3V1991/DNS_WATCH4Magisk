@@ -4,7 +4,7 @@
 * 84.200.69.80
 * 84.200.70.40
 
-## Caution
+## Caution:
 It is not guaranteed to work on Cellular Networks on all Devices
 
 ## Requirements:
